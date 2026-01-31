@@ -1,4 +1,4 @@
-# Glasses Detection using CNN and OpenCV
+# Glasses Detection using CNN and OpenCV 🤓
 
 ## Overview
 This project implements a real-time glasses detection system using a Convolutional Neural Network (CNN) and OpenCV. The model detects faces from live camera input and classifies whether a person is wearing glasses or not.
